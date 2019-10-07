@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "../configure --prefix=/Volumes/build1/da/build-BOOTSTRAP_osx106_amd64_gcc462/b/tmp/BUILDROOT/442c10db3932e1e26b2271109310e67a/opt/cmssw/osx106_amd64_gcc462/external/gcc/4.6.2 --disable-multilib --disable-nls --enable-languages=c,c++,fortran,objc,obj-c++ --enable-fully-dynamic-string --with-gmp=/Volumes/build1/da/build-BOOTSTRAP_osx106_amd64_gcc462/b/tmp/BUILDROOT/442c10db3932e1e26b2271109310e67a/opt/cmssw/osx106_amd64_gcc462/external/gcc/4.6.2 --with-mpfr=/Volumes/build1/da/build-BOOTSTRAP_osx106_amd64_gcc462/b/tmp/BUILDROOT/442c10db3932e1e26b2271109310e67a/opt/cmssw/osx106_amd64_gcc462/external/gcc/4.6.2 --with-mpc=/Volumes/build1/da/build-BOOTSTRAP_osx106_amd64_gcc462/b/tmp/BUILDROOT/442c10db3932e1e26b2271109310e67a/opt/cmssw/osx106_amd64_gcc462/external/gcc/4.6.2 --with-ppl=/Volumes/build1/da/build-BOOTSTRAP_osx106_amd64_gcc462/b/tmp/BUILDROOT/442c10db3932e1e26b2271109310e67a/opt/cmssw/osx106_amd64_gcc462/external/gcc/4.6.2 --with-cloog=/Volumes/build1/da/build-BOOTSTRAP_osx106_amd64_gcc462/b/tmp/BUILDROOT/442c10db3932e1e26b2271109310e67a/opt/cmssw/osx106_amd64_gcc462/external/gcc/4.6.2 --enable-cloog-backend=isl --enable-shared CC='/usr/bin/gcc-4.2 -fPIC' CXX='/usr/bin/c++-4.2 -fPIC' CPP=/usr/bin/cpp-4.2 CXXCPP='/usr/bin/c++-4.2 -E'";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "core2" } };

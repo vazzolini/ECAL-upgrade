@@ -1,0 +1,4 @@
+Library.TODBCServer:                        libRODBC.so libNet.so libRIO.so
+Library.TODBCResult:                        libRODBC.so libNet.so libRIO.so
+Library.TODBCRow:                           libRODBC.so libNet.so libRIO.so
+Library.TODBCStatement:                     libRODBC.so libNet.so libRIO.so
